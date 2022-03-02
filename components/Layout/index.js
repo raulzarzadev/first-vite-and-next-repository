@@ -13,7 +13,6 @@ export default function Layout({ children }) {
           </li>
         </ul>
       </nav>
-      Hola este es el layout
       <container>{children}</container>
     </main>
   );
